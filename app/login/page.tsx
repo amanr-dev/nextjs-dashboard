@@ -15,4 +15,3 @@ export default function LoginPage() {
     </main>
   );
 }
-("C:UsershpDocumentsCodeopenssl-0.9.8k_X64\bin");
